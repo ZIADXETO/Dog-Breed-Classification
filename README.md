@@ -1,1 +1,1 @@
-# Dog-Breed-Classification
+Built a machine learning solution in Python to identify dog breeds and detect their central points in images. Achieved 87.9% accuracy in breed classification using logistic regression and K-NN, and implemented linear regression for precise center localization.
